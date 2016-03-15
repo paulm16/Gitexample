@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-//git integrated in android studio
+//github integrated in android studio
 
 }

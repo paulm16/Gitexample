@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-//github integrated in to  android studio
+
 
 }
 //need functions

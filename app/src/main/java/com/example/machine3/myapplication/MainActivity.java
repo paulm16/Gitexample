@@ -21,7 +21,5 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-    //sample comments
-
-//message new add
+   //new commands from vishnu
 }
